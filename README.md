@@ -6,36 +6,21 @@
 
 <a href="https://rikichoi.com"><img src="https://img.shields.io/badge/rikichoi.com-1f6feb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
 <a href="https://www.linkedin.com/in/rikirzchoi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
-<a href="mailto:rikichoi@bu.edu"><img src="https://img.shields.io/badge/Email-1f6feb?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://x.com/warmcaesarsalad"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+<a href="mailto:rikichoi@bu.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
 
-## 🔧 Building
+## About
 
-<table>
-<tr>
-<td width="50%" valign="top">
+I'm interested in how ML workloads actually run on hardware: dataflow, memory movement and accelerator design.
 
-### [Calyx Systolic Generator](https://github.com/rikirzchoi/calyx-systolic-generator)
+- **Building:** a mini-TPU, a systolic-array accelerator in Verilog targeting an int8 MLP running end to end on an FPGA
+- **Learning:** Verilog/RTL design and CUDA
+- **Open to collaborating on:** open-source hardware and ML accelerators
+- **Ask me about:** ML compilers, graph neural networks, systolic arrays
 
-Took a naive 4×4 matrix multiply and turned it into a pipelined **systolic array** in Calyx IR, verified with Verilator cycle-accurate simulation.
-
-**⚡ 804 → 55 cycles**
-
-</td>
-<td width="50%" valign="top">
-
-### Mini-TPU on FPGA *(in progress)*
-
-A systolic-array accelerator written in **Verilog**, targeting an int8 MLP running end to end on a PYNQ-Z2.
-
-**🛠️ RTL → simulation → FPGA**
-
-</td>
-</tr>
-</table>
-
-## 🔬 Research
+## Research
 
 > **ML compiler cost models** · Boston University
 > Graph neural networks that predict program latency on Google's TPUGraphs dataset
@@ -43,22 +28,39 @@ A systolic-array accelerator written in **Verilog**, targeting an int8 MLP runni
 > **EvolveBench** · Stanford (remote)
 > A benchmark of whether web agents actually improve with experience
 
-## 🧰 Toolbox
+## Tech Stack
+
+**Hardware & systems**
+![Verilog](https://img.shields.io/badge/verilog-%23161b22.svg?style=for-the-badge)
+![CUDA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+
+**ML & data**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
+**Web & tools**
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+
+## GitHub Stats
 
 <div align="center">
 
-![Verilog](https://img.shields.io/badge/Verilog-161b22?style=for-the-badge)
-![CUDA](https://img.shields.io/badge/CUDA-161b22?style=for-the-badge&logo=nvidia&logoColor=76B900)
-![C++](https://img.shields.io/badge/C++-161b22?style=for-the-badge&logo=cplusplus&logoColor=00599C)
-![Python](https://img.shields.io/badge/Python-161b22?style=for-the-badge&logo=python&logoColor=3776AB)
-![PyTorch](https://img.shields.io/badge/PyTorch-161b22?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
-![Rust](https://img.shields.io/badge/Rust-161b22?style=for-the-badge&logo=rust&logoColor=white)
+<img src="https://github-readme-stats.shion.dev/api?username=rikirzchoi&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" alt="GitHub stats" />
 
 </div>
 
 <div align="center">
 
-📷 photography · 🏓 table tennis · 🍳 cooking
+<sub>Off the keyboard: table tennis (nationals finalist) and photography</sub>
 
 </div>
 
