@@ -28,6 +28,11 @@ I'm interested in how ML workloads actually run on hardware: dataflow, memory mo
 > **EvolveBench** · Stanford (remote)
 > A benchmark of whether web agents actually improve with experience
 
+## Hackathons
+
+> **[Quantum risk estimation](https://github.com/tanxnguyen/Asymptotically-Free-Qubits-iQuHACK2026)** · MIT iQuHACK 2026, State Street track runner-up
+> Adaptive quantum amplitude estimation for Value at Risk, benchmarked against classical Monte Carlo
+
 ## Tech Stack
 
 **Hardware & systems**
